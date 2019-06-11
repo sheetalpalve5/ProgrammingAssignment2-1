@@ -1,7 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+#Solution by Sheetal
 
-## Write a short comment describing this function
 #The first function, makeVector creates a matrix
 #Set the Matrix
 #Then Get the Matrix
